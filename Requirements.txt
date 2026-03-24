@@ -1,0 +1,9 @@
+streamlit>=1.55.0
+requests>=2.31.0
+beautifulsoup4>=4.12.3
+pypdf>=6.9.0
+openai>=1.0.0
+pytesseract>=0.3.10
+pdf2image>=1.17.0
+pillow>=10.0.0
+python-dotenv>=1.0.11
